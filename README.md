@@ -1,0 +1,2 @@
+## Simple implementation of a Hashed Binary Heap
+The Hashed Binary Heap is a data structure that combines the properties of a Binary Heap and a Hash Table. It is used to store a set of elements and perform operations like insert, delete, and decrease key in O(log n) time complexity. The Hashed Binary Heap is a useful data structure for implementing priority queues and graph algorithms like Dijkstra's algorithm.
